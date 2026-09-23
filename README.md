@@ -49,3 +49,8 @@ Sie ist für die Git-Übungsaufgabe gedacht, in der ein `dev`-Branch erstellt,
   ```
 
 Viel Erfolg!
+
+## Änderungsprotokoll
+* Antworten in answers.md hinzugefügt
+* Steckbrief mit Daten gefüllt
+
