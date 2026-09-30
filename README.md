@@ -54,3 +54,4 @@ Viel Erfolg!
 * Antworten in answers.md hinzugefügt
 * Steckbrief mit Daten gefüllt
 
+# git_aufgabe_steckbrief
